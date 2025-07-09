@@ -1,0 +1,11 @@
+name: CustomMines
+version: '${project.version}'
+main: com.venned.simplemines.Main
+api-version: '1.21'
+softdepend:
+  - Multiverse-Core
+  - PlaceholderAPI
+
+commands:
+  mines:
+    description: Main Command

@@ -1,0 +1,6 @@
+data-base:
+  host: 127.0.0.1
+  user: root
+  database: mines
+  pass: 123456
+  ssl: true
